@@ -1,2 +1,3 @@
 # Stack-Queue-via-C
-implementation of stack and queue data structure with language C only
+implementation of tack and queue data structure with language C only
+-- now that is stack only
